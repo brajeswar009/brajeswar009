@@ -1,7 +1,6 @@
-- 👋 Hi, I’m @brajeswar009
-- 👀 I’m interested in Software Developement, Web Developement, AI and Data Analysis. 
-- 🌱 I’m currently learning JavaScript and it's frameworks. And a hunger for learning more in the field of programming and Python.
-- 💞️ I’m looking to collaborate on any of my project specially GeekyWorld.
+- 👋 Hi, I’m Brajeswar Lenka
+- 👀 Currently working as an Application Developer at IBM.
+- 🌱 Curious to learn about tech and currently exploring Spring Framework.
 - 📫 How to reach me mail me to: brajeswar.lenka@gmail.com
 
 <!---
